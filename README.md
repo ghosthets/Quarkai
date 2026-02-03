@@ -59,10 +59,6 @@ Each of the 24 layers participates in a "Chain-of-Thought" process before produc
 
 The source code and training scripts for Quark-AI are **Closed Source** to maintain the integrity of the architecture. For collaborations or research inquiries, stay tuned for the official API documentation.
 
-<p align="center">
-  <b><i>"The future isn't just large; it's deep and recurrent. The future is Quark."</i></b>
-</p>
-
 ---
 
 ### 👨‍💻 Developed by
